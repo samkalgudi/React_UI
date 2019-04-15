@@ -1,0 +1,8 @@
+fields:
+  pageTitle: Styleguide | Sitecore JSS
+placeholders:
+  jss-main:
+  - componentName: NewUser
+    fields:
+      heading: Welcome!
+      
